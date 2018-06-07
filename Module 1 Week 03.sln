@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostShare", "PostShare\PostShare.csproj", "{5C6BB981-BCFE-4E4A-BF65-AE688AD8655A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLibrary", "AppLibrary\AppLibrary.csproj", "{4A2796FC-1CD5-47EC-8E77-A078B5FC4105}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5C6BB981-BCFE-4E4A-BF65-AE688AD8655A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C6BB981-BCFE-4E4A-BF65-AE688AD8655A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C6BB981-BCFE-4E4A-BF65-AE688AD8655A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2796FC-1CD5-47EC-8E77-A078B5FC4105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2796FC-1CD5-47EC-8E77-A078B5FC4105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2796FC-1CD5-47EC-8E77-A078B5FC4105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2796FC-1CD5-47EC-8E77-A078B5FC4105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
